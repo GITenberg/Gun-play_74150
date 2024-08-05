@@ -1,0 +1,31 @@
+_repo: Gun-play_74150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, Michael J.
+    birthdate: 1876
+    deathdate: 1932
+    gutenberg_agent_id: '57367'
+    url: http://www.gutenberg.org/2009/agents/57367
+description: ''
+gutenberg_issued: '2024-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74150'
+language: en
+pgterms:marc905: 20240715203328phillips
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Consolidated Magazines Corporation, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Western stories'
+- !lcsh 'Gunfighters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Gun play
+url: http://www.gutenberg.org/ebooks/74150
